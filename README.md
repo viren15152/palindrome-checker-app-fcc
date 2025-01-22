@@ -1,6 +1,7 @@
 # Palindrome-Checker-App-fcc
 
 ![Screenshot of application](<Screenshot 2025-01-22 at 13.35.59.png>)
+![Screenshot of application functioning](<Screenshot 2025-01-22 at 13.53.32.png>)
 
 ## Table of Contents
 
@@ -64,7 +65,7 @@ to discuss what you would like to change.
 
 ## Link to Deployed Application 
 
-
+https://viren15152.github.io/palindrome-checker-app-fcc/
 
 ## License
 

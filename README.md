@@ -16,7 +16,7 @@
 
 ## Description
 
-This is a web application that checks whether the given text is a palindrome. It works with alphanumeric strings and handles punctuation, spaces, and case differences. The application uses HTML, CSS, and JavaScript to create an interactive experience for users.
+This is a web application that checks whether the given text is a palindrome. It works with alphanumeric strings and handles punctuation, spaces, and case differences. The application uses HTML, CSS, and JavaScript to create an interactive experience for users. This project, Palindrome Checker, is the first certification project in the FreeCodeCamp JavaScript Algorithms and Data Structures Certification program. The goal of this project is to create a JavaScript-based palindrome checker that fulfills specific user stories and passes all tests provided by FreeCodeCamp. It serves as an introduction to applying JavaScript concepts to real-world scenarios.
 
 Check Palindrome: Users can input any string and check if it's a palindrome.
 Case & Punctuation Insensitivity: Ignores spaces, punctuation, and letter case for palindrome checking.
